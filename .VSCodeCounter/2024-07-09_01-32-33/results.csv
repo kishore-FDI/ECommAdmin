@@ -1,0 +1,22 @@
+"filename", "language", "JavaScript", "PostCSS", "comment", "blank", "total"
+"d:\PROJECTS\full stack\E-Com\admin\app\api\auth\[...nextauth]\route.js", "JavaScript", 12, 0, 0, 2, 14
+"d:\PROJECTS\full stack\E-Com\admin\app\api\categories\route.js", "JavaScript", 31, 0, 2, 5, 38
+"d:\PROJECTS\full stack\E-Com\admin\app\api\products\route.js", "JavaScript", 56, 0, 2, 6, 64
+"d:\PROJECTS\full stack\E-Com\admin\app\api\upload\route.js", "JavaScript", 50, 0, 1, 7, 58
+"d:\PROJECTS\full stack\E-Com\admin\app\categories\page.js", "JavaScript", 181, 0, 1, 15, 197
+"d:\PROJECTS\full stack\E-Com\admin\app\components\DataContext.js", "JavaScript", 14, 0, 0, 5, 19
+"d:\PROJECTS\full stack\E-Com\admin\app\components\Navbar.js", "JavaScript", 54, 0, 1, 3, 58
+"d:\PROJECTS\full stack\E-Com\admin\app\components\ProductForm.js", "JavaScript", 216, 0, 4, 13, 233
+"d:\PROJECTS\full stack\E-Com\admin\app\components\SessionProvider.js", "JavaScript", 3, 0, 0, 0, 3
+"d:\PROJECTS\full stack\E-Com\admin\app\components\layout.js", "JavaScript", 31, 0, 0, 2, 33
+"d:\PROJECTS\full stack\E-Com\admin\app\components\useSession.js", "JavaScript", 3, 0, 0, 0, 3
+"d:\PROJECTS\full stack\E-Com\admin\app\globals.css", "PostCSS", 0, 57, 0, 6, 63
+"d:\PROJECTS\full stack\E-Com\admin\app\layout.js", "JavaScript", 22, 0, 0, 3, 25
+"d:\PROJECTS\full stack\E-Com\admin\app\orders\page.js", "JavaScript", 9, 0, 0, 2, 11
+"d:\PROJECTS\full stack\E-Com\admin\app\page.js", "JavaScript", 28, 0, 0, 3, 31
+"d:\PROJECTS\full stack\E-Com\admin\app\products\delete\[...id]\page.js", "JavaScript", 44, 0, 0, 1, 45
+"d:\PROJECTS\full stack\E-Com\admin\app\products\edit\[...id]\page.js", "JavaScript", 27, 0, 1, 1, 29
+"d:\PROJECTS\full stack\E-Com\admin\app\products\new\page.js", "JavaScript", 10, 0, 0, 1, 11
+"d:\PROJECTS\full stack\E-Com\admin\app\products\page.js", "JavaScript", 53, 0, 0, 2, 55
+"d:\PROJECTS\full stack\E-Com\admin\app\settings\page.js", "JavaScript", 9, 0, 0, 2, 11
+"Total", "-", 853, 57, 12, 79, 1001

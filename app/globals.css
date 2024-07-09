@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input,textarea,select{
+  @apply border border-gray-400 rounded-md px-1 w-full mb-2;
+}
+
+input:focus ,textarea:focus,select:focus{
+  @apply border-purple-400 outline-none;
+  cursor: pointer; 
+  color: rgba(192 ,132, 252,1); 
+}
+h1{
+  @apply text-purple-400 mb-2 text-xl;
+}
+label{
+  @apply text-purple-900
+}
+.btn-primary{
+  @apply bg-purple-500 text-white px-4 rounded-md py-1
+}
+table.basic{
+  @apply w-full bg-white rounded-sm shadow-md;
+}
+table.basic tr td{
+  @apply px-4 py-2
+}
+table.basic thead tr td{
+  @apply bg-purple-50 text-sm text-gray-700 uppercase border-b border-purple-200 px-4 py-1.5;
+}
+table.basic a{
+  @apply bg-purple-300 text-sm py-1 px-2 rounded-md inline-flex gap-1.5 items-center mr-1
+}
+.btn{
+  @apply border border-black px-2 rounded-md text-white shadow-md
+}
+.btn.default{
+  @apply bg-black
+}
+.btn.red{
+  @apply bg-red-800 
+}
+.imageContainer {
+  display: flex;
+  overflow-x: auto;
+  gap: 1rem;
+  padding: 1rem 0;
+}
+
+.imageContainer::-webkit-scrollbar {
+  height: 8px;
+}
+
+.imageContainer::-webkit-scrollbar-thumb {
+  background-color: #888;
+  border-radius: 10px;
+}
+
+.imageContainer::-webkit-scrollbar-thumb:hover {
+  background-color: #555;
+}
+table.basic tr td:nth-child(2) {
+  @apply border-l-2 /* Purple border */
+}
+
